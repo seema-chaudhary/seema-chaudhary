@@ -20,19 +20,18 @@ I'm Seema Chaudhary, a passionate full-stack developer from India with a love fo
 
 
 <h3 align="left">Frontend Development:</h3>
-
+<hr>
 <p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>   
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-
-
 </p>
+
 <h3 align="left">Backend Development:</h3>
 <hr>
 <p align="left">
@@ -84,7 +83,7 @@ I'm Seema Chaudhary, a passionate full-stack developer from India with a love fo
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
  
    </p>
-
+<hr>
 
 ### Current Work
 🔭 I’m currently working on [Innovative Web App](https://github.com/seemachaudhary/innovative-web-app), a project aimed at revolutionizing the way users interact with online content. This project focuses on seamless user experience and cutting-edge design.
@@ -110,22 +109,6 @@ I'm Seema Chaudhary, a passionate full-stack developer from India with a love fo
 
 Let's create something amazing together!
 
-
-
-
-- 🔭 [Innovative Web App](https://github.com/seemachaudhary/innovative-web-app), a project aimed at revolutionizing the way users interact with online content. This project focuses on seamless user experience and cutting-edge design. **[Innovative Web App]**
-
-- 👯 I’m looking to collaborate on **[Open Source Dashboard Project]**
-
-- 🤝 I’m looking for help with **[AI-Powered Chatbot]**
-
-- 📫 How to reach me **codewithseema@gmail.com**
-
-- ⚡ Fun fact **I think I am funny, and I often incorporate humor into my code comments to keep things light and enjoyable!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 
 

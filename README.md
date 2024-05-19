@@ -29,8 +29,6 @@ I'm Seema Chaudhary, a passionate full-stack developer from India with a love fo
 
 Let's create something amazing together!
 
-<h1 align="center">Hi 👋, I'm Seema Chaudhary</h1>
-<h3 align="center">a passionate full stack developer from India with a love for creating dynamic and user-friendly web applications. With 18 years of experience in the IT industry, I have honed my skills in various technologies, including C, C++, Java, Python, .Net, PHP, React, Angular, Spring Boot, .NET, Databases and Cloud based technologies. I'm always excited to learn more and tackle new challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seema-chaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="seema-chaudhary" /> </p>
 
@@ -65,20 +63,9 @@ Let's create something amazing together!
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Framework:</h3>
-<hr>
-<p align="left">
- <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
- <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
-</p>
 
 <h3 align="left">Frontend Development:</h3>
-<hr>
+
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>   
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -110,7 +97,6 @@ Let's create something amazing together!
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>   
 </p>
-<br>
 
 <h3 align="left">Database:</h3>
 <hr>

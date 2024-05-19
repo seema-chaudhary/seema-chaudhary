@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi there! I'm Seema Chaudhary, a passionate full-stack developer from India with a love for creating dynamic and user-friendly web applications. With 18 years of experience in the IT industry, I have honed my skills in various technologies, including C, C++, Java, Python, .Net, PHP, React, and Angular. I'm always excited to learn more and tackle new challenges.
+I'm Seema Chaudhary, a passionate full-stack developer from India with a love for creating dynamic and user-friendly web applications. With 18 years of experience in the IT industry, I have honed my skills in various technologies, including C, C++, Java, Python, .Net, PHP, React, and Angular. I'm always excited to learn more and tackle new challenges.
 
 ### Current Work
 🔭 I’m currently working on [Innovative Web App](https://github.com/seemachaudhary/innovative-web-app), a project aimed at revolutionizing the way users interact with online content. This project focuses on seamless user experience and cutting-edge design.

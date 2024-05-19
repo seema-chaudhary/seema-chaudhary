@@ -27,3 +27,60 @@ I'm Seema Chaudhary, a passionate full-stack developer from India with a love fo
 ⚡ Fun fact: I think I am funny, and I often incorporate humor into my code comments to keep things light and enjoyable!
 
 Let's create something amazing together!
+
+Hi 👋, I'm Seema Chaudhary
+a passionate full stack developer from India with a love for creating dynamic and user-friendly web applications. With 18 years of experience in the IT industry, I have honed my skills in various technologies, including C, C++, Java, Python, .Net, PHP, React, Angular, Spring Boot, .NET, Databases and Cloud based technologies. I'm always excited to learn more and tackle new challenges.
+seema-chaudhary
+seema-chaudhary
+🔭 [Innovative Web App](https://github.com/seemachaudhary/innovative-web-app), a project aimed at revolutionizing the way users interact with online content. This project focuses on seamless user experience and cutting-edge design. [Innovative Web App]
+🤝 I’m looking for help with [AI-Powered Chatbot]
+👯 I’m looking to collaborate on [Open Source Dashboard Project]
+📫 How to reach me codewithseema@gmail.com
+⚡ Fun fact I think I am funny, and I often incorporate humor into my code comments to keep things light and enjoyable!
+Languages and Tools:
+android
+angular
+aws
+azure
+c
+couchdb
+cplusplus
+csharp
+css3
+dart
+django
+docker
+dotnet
+express
+flask
+flutter
+gcp
+git
+go
+html5
+java
+javascript
+jenkins
+jest
+kotlin
+kubernetes
+laravel
+linux
+mongodb
+mssql
+mysql
+nginx
+nodejs
+php
+postgresql
+postman
+python
+react
+reactnative
+selenium
+spring
+typescript
+Support:
+Buy Me A Coffee
+Buy Me A Ko-fi
+seema-chaudhary
